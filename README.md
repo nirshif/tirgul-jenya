@@ -1,0 +1,2 @@
+# tirgul-jenya
+tirgul devops
